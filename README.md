@@ -47,7 +47,7 @@ A simple yet instructive Flutter-based mobile app for the BDCC curriculum. This 
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/saadbr/flutter_nav_data.git
+   git clone https://github.com/saemanab/flutter-nav-data.git
    cd flutter_nav_data
    ```
 
